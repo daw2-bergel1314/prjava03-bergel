@@ -7,9 +7,14 @@
 package prjava03.bergel;
 
 
- import java.awt.*; // using AWT containers and components
+
+import java.awt.*; // using AWT containers and components
 
 import java.awt.event.*; // using AWT events and listener interfaces
+
+import java.text.*;
+
+import java.sql.*;
 
 import java.io.*;
 // An AWT GUI program inherits the top-level container java.awt.Frame
